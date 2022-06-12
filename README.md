@@ -1,3 +1,6 @@
+# Deployed
+Check the project out live on [URL Shortner](https://url-shortner-chi-umber.vercel.app/).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
